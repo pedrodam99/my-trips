@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import client from 'graphql/client'
 import { GetPageBySlugQuery, GetPagesQuery } from 'graphql/generated/graphql'
 import { GET_PAGES, GET_PAGE_BY_SLUG } from 'graphql/queries'
