@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="center">
-  This is "my travels", a project where I can choose places I want to go
+  This is "my trips", a project where I can choose places I want to go
 </h4>
 
 <div align="center">
