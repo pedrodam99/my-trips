@@ -11,11 +11,11 @@
 
 <p align="center">
     <br>
-    <img src="https://img.shields.io/github/languages/top/pedrodam99/coders-news">
-    <img src="https://img.shields.io/github/issues/pedrodam99/coders-news">
-    <img src="https://img.shields.io/github/forks/pedrodam99/coders-news">
-    <img src="https://img.shields.io/github/stars/pedrodam99/coders-news">
-    <img src="https://img.shields.io/github/license/pedrodam99/coders-news">
+    <img src="https://img.shields.io/github/languages/top/pedrodam99/my-trips">
+    <img src="https://img.shields.io/github/issues/pedrodam99/my-trips">
+    <img src="https://img.shields.io/github/forks/pedrodam99/my-trips">
+    <img src="https://img.shields.io/github/stars/pedrodam99/my-trips">
+    <img src="https://img.shields.io/github/license/pedrodam99/my-trips">
 </p>
 
 <h4 align="center">
