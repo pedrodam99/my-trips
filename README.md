@@ -18,13 +18,17 @@
     <img src="https://img.shields.io/github/license/pedrodam99/coders-news">
 </p>
 
+<h4 align="center">
+  This is "my travels", a project where I can choose places I want to go
+</h4>
+
 <div align="center">
   <img src="https://i.ibb.co/4WcxpXr/Captura-de-tela-2022-11-10-182713.png" height="450">
 </div>
 
 ## :rocket: Technologies
 
-This project uses lot of stuff as:
+This project was created in William Justen's Advanced React course, with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
