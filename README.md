@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://my-trips-rougue-beta.vercel.app/"> View Demo </a>
+    <a href="https://my-trips-rougue-beta.vercel.app/"> View Demo. </a>
 </p>
 
 <p align="center">
